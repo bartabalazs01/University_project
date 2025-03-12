@@ -6,7 +6,7 @@ I recently graduated from University of Miskolc as a Software Information Techno
 
 🚀 What You'll Find Here
 
-Some of my small practice projects
+My main project in the University of Miskolc. This website features a cryptocurrency wallet with authentication, access control, and secure transaction capabilities.
 
 📚 My Goal
 
